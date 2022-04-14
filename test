@@ -1,2 +1,3 @@
-#! /bin/bash
-echo sucess first trigger
+#!/bin/bash  
+# Bash script  
+echo "Hello World!"
